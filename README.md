@@ -37,6 +37,7 @@ poetry run gradio
 
 
 **Client:** Python, Gradio
+
 **Libraries:** Pytorch, Docarray, Hnswlib, Pandas, Matplotlib, Tqdm
 
 
